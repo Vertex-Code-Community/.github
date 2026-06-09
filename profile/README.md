@@ -1,13 +1,3 @@
-<p align="center">
-  <a href="https://medium.com/blazor-maui-hybrid-development">
-    <img src="https://img.shields.io/badge/Medium-Engineering%20Articles-black?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
-  </a>
-  <img src="https://img.shields.io/badge/Upwork-7000%2B%20Hours-6FDA44?style=for-the-badge&logo=upwork&logoColor=white" alt="Upwork 7000+ hours" />
-  <img src="https://img.shields.io/badge/Clients-Dozens%20of%20Successful%20Projects-blue?style=for-the-badge" alt="Clients" />
-</p>
-
----
-
 ## 👋 Who We Are
 
 We are a software development agency focused on building **production-ready web, mobile, cloud, and AI-powered systems** for businesses that need more than just code.
@@ -434,6 +424,9 @@ Whether you need a new product, a technical partner, a dedicated development tea
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer" alt="Footer" />
+  <a href="https://medium.com/blazor-maui-hybrid-development">
+    <img src="https://img.shields.io/badge/Medium-Engineering%20Articles-black?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
+  </a>
+  <img src="https://img.shields.io/badge/Upwork-7000%2B%20Hours-6FDA44?style=for-the-badge&logo=upwork&logoColor=white" alt="Upwork 7000+ hours" />
+  <img src="https://img.shields.io/badge/Clients-Dozens%20of%20Successful%20Projects-blue?style=for-the-badge" alt="Clients" />
 </p>
-```
