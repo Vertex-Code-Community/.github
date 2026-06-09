@@ -415,13 +415,9 @@ We have strong experience working with international clients, including:
 
 ---
 
-## 🤝 Let’s Build Something
+## 🤝 Let’s Build Something Great Together
 
 Whether you need a new product, a technical partner, a dedicated development team, or help with an existing system — we can help you move from idea to production.
-
-<p align="center">
-  <strong>Web. Mobile. Cloud. AI. DevOps. Production-ready engineering.</strong>
-</p>
 
 <p align="center">
   <a href="https://medium.com/blazor-maui-hybrid-development">
