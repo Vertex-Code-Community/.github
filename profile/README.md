@@ -1,12 +1,4 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=We%20Build%20Software%20That%20Works%20in%20Production&fontAlign=50&fontAlignY=38&desc=Web%20%7C%20Mobile%20%7C%20Cloud%20%7C%20AI%20%7C%20DevOps&descAlign=50&descAlignY=58&animation=fadeIn" alt="Header" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=24&duration=3000&pause=800&center=true&vCenter=true&width=900&lines=Full-cycle+software+development+team;From+idea+to+production-ready+product;.NET+%7C+MAUI+%7C+Blazor+%7C+Angular+%7C+React+%7C+AI+%7C+Cloud;Engineering-minded.+Client-focused." alt="Typing SVG" />
-</p>
-
-<p align="center">
   <a href="https://medium.com/blazor-maui-hybrid-development">
     <img src="https://img.shields.io/badge/Medium-Engineering%20Articles-black?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
   </a>
